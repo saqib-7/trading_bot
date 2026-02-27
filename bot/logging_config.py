@@ -2,6 +2,7 @@ import logging
 import sys
 from pathlib import Path
 
+
 def setup_logger(name: str = "trading_bot") -> logging.Logger:
     """Configures the logger to write to both console and a local log file."""
     logger = logging.getLogger(name)

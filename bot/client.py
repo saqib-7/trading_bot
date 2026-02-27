@@ -9,6 +9,7 @@ from dotenv import load_dotenv, find_dotenv
 
 from .logging_config import logger
 
+
 load_dotenv(find_dotenv())
 
 BASE_URL = "https://testnet.binancefuture.com"

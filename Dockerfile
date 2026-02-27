@@ -7,7 +7,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-# Environment variables for Binance Testnet credentials
+# Environment variables for Binance Testnet credentials 
 ENV BINANCE_API_KEY=""
 ENV BINANCE_API_SECRET=""
 

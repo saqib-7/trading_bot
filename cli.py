@@ -6,6 +6,7 @@ from fastapi.testclient import TestClient
 from bot.orders import app
 from bot.logging_config import logger
 
+
 cli = typer.Typer(help="Binance Futures CLI Trading Bot")
 console = Console()
 client = TestClient(app)

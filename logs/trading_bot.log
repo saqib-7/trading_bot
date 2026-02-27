@@ -8,3 +8,4 @@
 2026-02-27 19:52:44,111 - trading_bot - INFO - Sending POST request to /fapi/v1/order
 2026-02-27 19:52:44,861 - trading_bot - INFO - Response received from /fapi/v1/order - Status: 200
 2026-02-27 19:52:44,861 - trading_bot - INFO - Order successfully placed: 12555451969
+

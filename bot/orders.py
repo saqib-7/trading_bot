@@ -4,6 +4,7 @@ from .validators import OrderRequest
 from .client import BinanceFuturesClient
 from .logging_config import logger
 
+
 app = FastAPI(title="Trading Bot API", description="Internal API for Binance Futures Trading Bot")
 
 binance_client = BinanceFuturesClient()
