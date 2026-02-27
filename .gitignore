@@ -1,26 +1,16 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
 
 # Environments
 .env
 .venv
 env/
 venv/
-ENV/
-env.bak/
-venv.bak/
 
+# In real world, this should be ignored, but for this project, I am keeping the logs, as it was mentioned in the description.
 # Project Logs
-logs/
-*.log
+# logs/
+# *.log
 
 # Editor directories and files
 .idea/
-.vscode/
-*.swp
-*.swo
 
-# Docker
-docker-compose.override.yml
