@@ -6,10 +6,9 @@ __pycache__/
 env/
 venv/
 
-# In real world, this should be ignored, but for this project, I am keeping the logs, as it was mentioned in the description.
 # Project Logs
-# logs/
-# *.log
+logs/
+*.log
 
 # Editor directories and files
 .idea/
